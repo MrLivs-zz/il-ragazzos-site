@@ -1,0 +1,157 @@
+body{
+    font-family: "Lato";
+    text-align: center;
+}
+
+h1{
+    font-family: "Damion";
+    color: white;
+}
+
+.container-fluid{
+    padding:1% 5%;
+}
+
+/* Navbar */
+
+.navbar {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: #b7540e;
+}
+
+.nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav-section{
+    background-color: #f5e5d2;
+}
+
+/* Title Section */
+
+.main-header{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    margin-top: 20%;
+    text-align: center;
+}
+
+.title-section{
+    background-image: url("/images/pizza-background-image.jpg");
+    background-size: 1920px;
+    background-position: center;
+    height: 500px;
+}
+
+/* Card Section */
+.card {
+    border-color: #e89f71;
+}
+
+.card:hover {
+    background-color: #f5e5d2;
+}
+.pizza-cards{
+    margin: 3% 5%;
+}
+.pizza-cards h1{
+    font-size: 3rem;
+    padding-top: 20px;
+    color: #b7540e;
+}
+
+.pizza-col{
+    padding: 3% 2%;
+}
+
+.card-img-top {
+    max-height: 200px;
+    min-height: 150px;
+    object-fit: cover;
+}
+
+/* Jumbotron section */
+.jumbotron{
+    margin-bottom: 0;
+    padding: 6rem;
+}
+
+.jumbotron h1{
+    margin-bottom: 0;
+}
+.jumbotron p{
+    color: white;
+    font-weight: bold;
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 1.5;
+}
+
+#fresh-ingredients-jum {
+    background-image: url("/images/fresh-ingredients.jpg");
+    background-position:bottom;
+}
+
+#brick-oven-jum {
+    background-image: url("/images/brick-oven.jpg");
+    background-position: center;
+}
+
+#authentic-taste-jum {
+    background-image: url("/images/authentic-italy.jpg");
+    background-position: center;
+}
+
+/* Testimonials section */
+.testimonials{
+    background-color: white;
+    color: #b7540e;
+    margin: 3% 5%;
+}
+
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+    
+}
+
+.testimonial-img{
+    margin:20px;
+    border-radius: 100%;
+    width: 10%;
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(80%);
+}
+
+.carousel-item {
+    padding: 5% 10%;
+}
+
+/* Press Section */
+
+#press{
+    background-color: white ;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Social icons and Footer */
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+.social-icon:hover{
+    color: white;
+}
+
+#footer{
+    background-color: #f5e5d2 ;
+}
+
