@@ -39,7 +39,7 @@ h1{
 }
 
 .title-section{
-    background-image: url("images/pizza-background-image.jpg");
+    background-image: url("/images/pizza-background-image.jpg");
     background-size: 1920px;
     background-position: center;
     height: 500px;
