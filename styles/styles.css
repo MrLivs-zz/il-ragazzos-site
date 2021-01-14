@@ -39,7 +39,7 @@ h1{
 }
 
 .title-section{
-    background-image: url("images\pizza-background-image.jpg");
+    background-image: url("https://stonylivs.github.io/il-ragazzos-site/images/pizza-background-image.jpg");
     background-size: 1920px;
     background-position: center;
     height: 500px;
@@ -90,17 +90,17 @@ h1{
 }
 
 #fresh-ingredients-jum {
-    background-image: url("images\fresh-ingredients.jpg");
+    background-image: url("https://stonylivs.github.io/il-ragazzos-site/images/fresh-ingredients.jpg");
     background-position:bottom;
 }
 
 #brick-oven-jum {
-    background-image: url("images\brick-oven.jpg");
+    background-image: url("https://stonylivs.github.io/il-ragazzos-site/images/brick-oven.jpg");
     background-position: center;
 }
 
 #authentic-taste-jum {
-    background-image: url("images\authentic-italy.jpg");
+    background-image: url("https://stonylivs.github.io/il-ragazzos-site/images/authentic-italy.jpg");
     background-position: center;
 }
 
