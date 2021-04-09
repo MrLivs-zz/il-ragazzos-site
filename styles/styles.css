@@ -358,6 +358,10 @@ div.exp-container .row{
 #footer{
     background-color: #f5e5d2 ;
 }
+.hours h4:hover{color: white; cursor: pointer;}
+.careers h4:hover{color: white;cursor: pointer;}
+.locations h4:hover{color: white;cursor: pointer;}
+.contact h4:hover{color: white;cursor: pointer;}
 .footer-links{
     padding-top: 4em;
     gap: 5em;
